@@ -1,7 +1,9 @@
-# 21point
+# 经典21点
 
-使用 typeScript 写的
-代码写的比较烂，不要见笑，代码放在 GitHub
+基于layabox引擎开发的游戏，可以编译为 安卓 ios web
+
+开发语言：TypeScript
+
 
 <img src="https://img.layabox.com/questions/20170803/c67de583aafef6f2f81b48ed54d26ddb.jpg" class="img-polaroid" title="QQ图片20170803134205.jpg" alt="QQ图片20170803134205.jpg">
 
@@ -9,8 +11,5 @@
 
 <img src="https://img.layabox.com/questions/20170803/4e4e1c8e44c9ea6c76767fddc9f3c82c.jpg" class="img-polaroid" title="3.jpg" alt="3.jpg">
 
- 
-记得 Start 一下
-https://github.com/bool1993/21point
 安卓包
 https://github.com/bool1993/21 ... roid/ 
